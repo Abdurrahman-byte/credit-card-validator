@@ -42,7 +42,7 @@ entry = Entry(window, font=("Arial", 10))
 entry.pack(pady=10)
 
 button = Button(window, text="Validate", command=validate)
-button.pack(pady=5)
+button.pack()
 
 label = Label(window, text="Enter a card number", font=("consolas", 10))
 label.pack(pady=10)
