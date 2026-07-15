@@ -28,6 +28,8 @@ Features
 Technologies Used
 
 * Python 3
+* Tkinter
+* Luhn Algorithm
 
 
 
@@ -211,7 +213,6 @@ Future Improvements
 
 * 💳 Detect card type (Visa, Mastercard, American Express)
 * 📋 Validate multiple card numbers from a file
-* 🖼️ Create a Tkinter GUI version
 * 🌐 Build a web-based validator
 * 📊 Display detailed checksum calculations
 * 🧪 Add automated unit tests
@@ -223,7 +224,7 @@ Known Limitations
 * Only performs checksum validation
 * Does not verify whether a card actually exists
 * No card issuer detection
-* Command-line interface only
+
 
 
 
